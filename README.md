@@ -16,7 +16,8 @@ This project aims to automate the provisioning of AWS infrastructure using Terra
 - security_group: Manages security group rules for the EC2 instance.
 # Usage
 --------------
-At first you need to creat account on AWS and install VScode and terraform
+At first you need to creat account on AWS and install VScode and terraform then follow the steps:
+
 1- Clone the repository.
 2- Navigate to the terraform directory.
 3- Run terraform init to initialize the Terraform configuration.
