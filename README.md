@@ -17,8 +17,7 @@ This project aims to automate the provisioning of AWS infrastructure using Terra
 # Usage
 --------------
 At first you need to creat account on AWS and install VScode and terraform then follow the steps:
-
-1- Clone the repository.
-2- Navigate to the terraform directory.
-3- Run terraform init to initialize the Terraform configuration.
-4- Run terraform apply to create the AWS infrastructure.
+- Clone the repository.
+- Navigate to the terraform directory.
+- Run terraform init to initialize the Terraform configuration.
+- Run terraform apply to create the AWS infrastructure.
